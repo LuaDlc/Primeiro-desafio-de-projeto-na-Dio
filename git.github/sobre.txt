@@ -1,0 +1,17 @@
+Git foi criado por Linus Torralds, e é um software de controle de versão.
+principais vantages:
+*Controle de histórico
+*Trabalho em equipe
+*Ramificação do projeto
+*Segurança
+*Organização
+
+E o Github:
+*Perfeito para criar repositórios e participar de outros repositórios.
+*facilita a ser encontrado por empresas
+*repositórios ilimitados
+*hospedagem de código-fonte
+*característica de rede social
+*GitHub Pages integrado
+*Colaboração entre usuários
+*Forks
