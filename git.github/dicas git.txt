@@ -1,5 +1,5 @@
 #Algumas dicas de comandos básicos para o git:
-##Aprecie
+##Apreciem! 
 
 ---
 
