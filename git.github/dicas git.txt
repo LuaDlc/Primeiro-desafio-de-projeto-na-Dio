@@ -1,0 +1,31 @@
+#Algumas dicas de comandos básicos para o git:
+##Aprecie
+
+---
+
+*git init*
+Inicia um novo reposítório local na maquina;
+git init em um diretório de projeto existente(uum igt init dentro
+de um pasta) fará a mesma inicialização, mas com escopo para
+este diretório.
+
+*cd + nome-da-pasta/ *
+Navega dentro da pasta 
+
+*mkdir nome-da-pasta*
+Cria uma nova pasta
+
+*cd ..* 
+Volta para a pasta anterior
+
+*git add .*
+Adiciona alterações ao diretório, deve ser adicionado
+antes de dar seu git commit
+
+*git commit -m "mensagem de commite" *
+ faz o commite das alterações que foram feitas no seu repositório
+local, para o repositório remoto. Sempre adicione uma frase
+específica sobre as alterações.
+
+*git push origin main*
+Faz o push do commit, é necessário para incluir as alterações.
